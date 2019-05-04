@@ -1,6 +1,8 @@
 # san_cus_trans_pre
 Santander Customer Transaction Prediction data from a very very interesting kaggle competitions..
 
+https://www.kaggle.com/c/santander-customer-transaction-prediction/kernels?sortBy=voteCount&group=everyone&pageSize=20&competitionId=10385
+
 # The challanges in the data:
 
 -- Imbalanced data sets. The class distribution is 10% vs 90%.
