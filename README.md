@@ -16,7 +16,7 @@ https://www.kaggle.com/c/santander-customer-transaction-prediction/kernels?sortB
 
 # Libraries used:
 
-Lightgbm, Keres, Sklearn, Scipy, Numpy, Pands
+Lightgbm, Keras, Sklearn, Scipy, Numpy, Pandas
 
 # Interesing Observations/Lessons learnt
 
